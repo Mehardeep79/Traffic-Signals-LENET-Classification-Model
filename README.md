@@ -64,7 +64,7 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 
 ```bash
 https://github.com/Mehardeep79/Traffic-Signals-LENET-Classification-Model.git
-cd traffic-sign-classification
+cd Traffic-Signals-LENET-Classification-Model
 ```
 
 ## 📚🗂️ Import Libraries and Dataset
