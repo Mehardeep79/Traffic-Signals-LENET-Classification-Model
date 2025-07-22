@@ -16,7 +16,10 @@ It is designed as a proof-of-concept for traffic sign recognition — a key comp
   </tr>
 </table>
 
-<img src="assets/Predictions.png" width="60%" alt="Predictions" align = "center">
+<p align="center">
+  <img src="assets/Predictions.png" width="70%" alt="Predictions">
+</p>
+
 <p align="center"><em>Predictions Comparison with True Values</em></p>
 
 ---
