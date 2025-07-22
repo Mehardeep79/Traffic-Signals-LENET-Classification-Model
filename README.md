@@ -3,6 +3,22 @@
 This project implements a **Convolutional Neural Network (CNN)** based on the classic **LeNet-5 architecture** to classify traffic sign images into one of 43 classes.  
 It is designed as a proof-of-concept for traffic sign recognition — a key component of autonomous driving systems — using the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/Accuracy.png" width="100%" alt="Accuracy"><br>
+      <em>Figure 1: Training and Validation Accuracy (per epoch)</em>
+    </td>
+    <td align="center">
+      <img src="assets/Loss.png" width="100%" alt="Loss"><br>
+      <em>Figure 2: Training and Validation Loss (per epoch)</em>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/Predictions.png" width="60%" alt="Predictions">
+<em>Figure: True Value and Predictions Comparison</em>
+
 ---
 
 ## 📑 Table of Contents
