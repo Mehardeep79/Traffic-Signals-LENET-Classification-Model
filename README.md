@@ -66,6 +66,9 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 https://github.com/Mehardeep79/Traffic-Signals-LENET-Classification-Model.git
 cd Traffic-Signals-LENET-Classification-Model
 ```
+### 📂 Download the Dataset:
+
+📍 **Source:** [Kaggle — Traffic Sign Classification Model Using LE-NET](https://www.kaggle.com/datasets/mehardeepsandhu/traffic-sign-classification-model-using-le-net)  
 
 ## 📚🗂️ Import Libraries and Dataset
 
