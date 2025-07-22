@@ -15,9 +15,9 @@ It is designed as a proof-of-concept for traffic sign recognition — a key comp
 * [🧹 Data Preparation](#-data-preparation)
 * [🧠🚀 Model Training](#-model-training)
 * [📈🧪 Model Evaluation and Inference](#-model-evaluation-and-inference)
-* [✅ Conclusions](#-conclusions)
+* [✅ Results](#-conclusions)
 * [🤝 Contributing](#-contributing)
-* [📄 License](#-license)
+
 
 ---
 
@@ -63,7 +63,7 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 ### 📂 Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/traffic-sign-classification.git
+https://github.com/Mehardeep79/Traffic-Signals-LENET-Classification-Model.git
 cd traffic-sign-classification
 ```
 
