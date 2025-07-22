@@ -7,17 +7,17 @@ It is designed as a proof-of-concept for traffic sign recognition — a key comp
   <tr>
     <td align="center">
       <img src="assets/Accuracy.png" width="100%" alt="Accuracy"><br>
-      <em>Figure 1: Training and Validation Accuracy (per epoch)</em>
+      <em>Training and Validation Accuracy (per epoch)</em>
     </td>
     <td align="center">
       <img src="assets/Loss.png" width="100%" alt="Loss"><br>
-      <em>Figure 2: Training and Validation Loss (per epoch)</em>
+      <em>Training and Validation Loss (per epoch)</em>
     </td>
   </tr>
 </table>
 
-<img src="assets/Predictions.png" width="60%" alt="Predictions">
-<em>Figure: True Value and Predictions Comparison</em>
+<img src="assets/Predictions.png" width="60%" alt="Predictions" align = "center">
+<p align="center"><em>Predictions Comparison with True Values</em></p>
 
 ---
 
